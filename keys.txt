@@ -1,0 +1,11 @@
+API Keys:
+
+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
+
+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
+
+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
+
+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
+
+NOTE: Each API key is unique to a team member and has limited usage as it is not a premium key
